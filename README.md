@@ -1,5 +1,5 @@
 ### install
 `pip install -e .`
 
-### usuage
+### usage
 `alarm 12:00`
